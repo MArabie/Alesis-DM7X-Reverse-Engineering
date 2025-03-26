@@ -27,8 +27,38 @@ With the right adapter, 1/4" Female TRS to Dual  14/" Male TS splitter, and a Fe
 <br/><img src=https://github.com/user-attachments/assets/4b1b5814-6264-4fb9-a2b2-d2c6731e5290 height="200"><img src=https://github.com/user-attachments/assets/fb0886e7-4e01-49f7-895b-7eac92d10013 height="200">
 
 ## Adding on with breakout
-DSun 25 break out board and TRS patch cable (TRS on both ends) (get then twice as long as you need them and cut them in half) will also work. This will be more wire in the long run, but will allow more flexibilty. Splitters may still be needed for Tom 4 and Crash 2.
-<img src=https://github.com/user-attachments/assets/66818b64-ef32-4f4c-856e-80efbd14c66b width="200">
+DSub 25 break out board and TRS patch cable (TRS on both ends) (get then twice as long as you need them and cut them in half) will also work. This will be more wire in the long run, but will allow more flexibilty. Splitters may still be needed for Tom 4 and Crash 2.
+<br/><img src=https://github.com/user-attachments/assets/66818b64-ef32-4f4c-856e-80efbd14c66b width="200">
+<br/>The pinout for the connector is as follows, from the perspective of loking at the male pins of the connector.
+<br/><img src=https://github.com/user-attachments/assets/57d3505f-e47b-43d2-bb03-1ad70dc58183 width="750">
+<br/> Table in order of distance from the DSub connector
+| Trigger lable on snake connector | Length (inches) | Symbol in diagram | Sleve(S) Ring(R) Tip(T) | Pin |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| snare | 22 | SD | S | 21 | 
+|  |  |  | R | 8 |
+|  |  |  | T | 9 |
+| hi-hat | 22 | HH | S | 11 |
+|  |  |  | T | 24 |
+| tom 1 | 33.5 | T1 | S | 19 | 
+|  |  |  | R | 7 |
+|  |  |  | T | 20 |
+| tom 2 | 46 | T2 | S | 18 | 
+|  |  |  | R | 5 |
+|  |  |  | T | 6 |
+| crash 1 | 46 | C1 | S | 22 | 
+|  |  |  | R | 10 |
+|  |  |  | T | 23 |
+| hi-hat control | 54 | HC | S | 25 | 
+|  |  |  | R | 12 |
+|  |  |  | T | 13 |
+| tom 3 | 62 | T3 | S | 17 | 
+|  |  |  | R | 16 |
+|  |  |  | T | 4 |
+| kick | 69.5 | K | S | 15 | 
+|  |  |  | T | 3 |
+| ride | 73.5 | RC | S | 14 | 
+|  |  |  | R | 1 |
+|  |  |  | T | 2 |
 
 ## Reference Material
 https://www.alesis.com/rscdn/1886/documents/Nitro%20Drum%20Module%20-%20User%20Guide%20-%20v1.2.pdf
