@@ -6,6 +6,8 @@ There is a 25 pin D-Sub connector on the back of the unit:
 <br/><img src=https://github.com/user-attachments/assets/ecfdb0f2-f850-4ede-b8ca-a5dc0b9e4b50 height="400"><img src=https://github.com/user-attachments/assets/8719e0bc-bc52-493e-99a3-7168ccdaa281 height="400">
 <br/>The cable snake breaks out the drum/cymbol/pedal with just enought cable to reach each when assembled.
 <br/>On the Nitro Mesh Kit, there are 3 types terminating connectors:
+<br/><img src=https://github.com/user-attachments/assets/164556b4-c700-4a55-b2b6-8d4bc51fc64b height="200">
+
 - 1/4" TRS (Snare, Tom 1, Tom 2, Tom 3, Crash 1, Ride)
     - Snare is a Dual Zone (Drum Pad and Rim)
     - Crash 1 is Dual Zone (Pad w/ Choke)
